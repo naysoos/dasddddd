@@ -1,14 +1,14 @@
 {
-  "short_name": "LanaCode",
-  "name": "LanaCode",
+  "short_name": "M4CODE.PL",
+  "name": "M4CODE.PL - STRONA GŁÓWNA",
   "icons": [
     {
-      "src": "lanacode.ico",
+      "src": "M4CODE_1.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "lanacode.png",
+      "src": "M4CODE.png",
       "type": "image/png",
       "sizes": "192x192"
     }
